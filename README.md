@@ -2,7 +2,7 @@
 
 ## Object Oriented Programming Code
 
-(package = HMS)
+(package = Hotel)
 
 ### hotelManagement.java
 
